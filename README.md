@@ -8,5 +8,4 @@ Each dashboard demonstrates the ability to work with data across different domai
 - Clear and intutive visuals that simplify complex datasets
 - Identification of trends, relationships, and key comparisions
 - Use of interactive elements to improve user exploration
-- Application of Power BI to analyze real-world scenarios
-- 
+- Application of Power BI to analyze real-world scenarios 
