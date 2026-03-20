@@ -1,11 +1,12 @@
 ## Power BI Projects
 
-This repository showcases interactive Power BI dashboards built to turn raw data into clear, actionable insights. The projects focus on exploring datasets, uncovering trends, and presenting information in a way that supports business decisions.
+This repository showcases interactive Power BI dashboards built to transform rwa data into clear and meaningful insights. The projects focus on exploring datasets, identifying trends, and presenting information in a structured way that supports analysis and interpretation.
 
-Highlights:
+Each dashboard demonstrates the ability to work with data across different domains, apply analytical thinking, and communicate findings through effective visual design. The goal is to highlight patterns, comparisions, and key metrics that help users better understand performance and underlying trends. 
 
-Interactive visualizations that make complex data easy to understand
-
-Analysis of patterns, comparisons, and key metrics
-
-Practical application of Power BI skills to real-world business scenarios
+## Highlights:
+- Clear and intutive visuals that simplify complex datasets
+- Identification of trends, relationships, and key comparisions
+- Use of interactive elements to improve user exploration
+- Application of Power BI to analyze real-world scenarios
+- 
