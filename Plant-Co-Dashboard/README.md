@@ -1,4 +1,4 @@
-Plant Co Performance Analysis (Power BI Dashboard)
+Plant Co Performance Analysis
 ## Description:
 This project analyzes the Plant Co dataset using an interactive Power BI dashboard to evaluate
 across categories and time. The focus is on identifying trends, comparing results, and uncovering
